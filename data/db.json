@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "title": "Web",
+      "id": 1,
+      "details": "Software"
+    },
+    {
+      "title": "Developer",
+      "id": 2,
+      "details": "Software"
+    },
+    {
+      "title": "Software Developer",
+      "id": 3,
+      "details": "Software"
+    }
+  ]
+}

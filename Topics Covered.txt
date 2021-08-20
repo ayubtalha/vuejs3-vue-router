@@ -1,3 +1,4 @@
+Topic: Vue Router
 - Vue Router Setup
 - Router Links
 - Folder Structure
@@ -5,3 +6,7 @@
 - Dynamic Links
 - Redirects & 404's
 - Programmatic Navigation
+
+Topic: Fecthing Data
+- Fetching Data
+- Conditionally showing Data
